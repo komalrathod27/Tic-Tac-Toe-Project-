@@ -18,6 +18,10 @@
 - Game Preview
 - <img width="1216" height="800" alt="Screenshot (444)" src="https://github.com/user-attachments/assets/00810936-62f4-4116-8d49-61c2249df629" />
 
+# 🎮Live Demo
+- Play the Game here: 
+- [Tic Tac Toe](https://komalrathod27.github.io/Tic-Tac-Toe-Project-/)
+
 # 🧩Project Structure
 - `index.html`
 - `style.css`
