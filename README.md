@@ -22,8 +22,9 @@ This project showcases my skills in front-end web development, DOM manipulation,
     • README.md
 
 # 👩‍💻Author
-    ## Komal Rathod
-    Github: https://github.com/komalrathod27
+    Komal Rathod
+    Github: (https://github.com/komalrathod27)
+    ⭐Give it a star if you liked it!
              
 
 
